@@ -270,7 +270,7 @@ Helsinki-NLP/opus-mt-en-ro
 - Weight Decay: 0.01
 
 
-# Task 7 — Text Summarization(CNNDM)
+# Task 7 — Text Summarization
 Generate a shorter, coherent summary of a longer text (e.g., news article → headline/abstract). Sequence‑to‑sequence task (encoder‑decoder models like BART, T5).
 ## Model checkpoint
 
